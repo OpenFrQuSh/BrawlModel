@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\BrawlModel.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\BrawlModel.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\BrawlModelEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\.vsconfig" />
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\BrawlModel">
+      <UniqueIdentifier>{2F8B8DB2-39AE-3138-90C8-3D7DA6B0A409}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\BrawlModel\BrawlModel.Build.cs">
+      <Filter>Source\BrawlModel</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\BrawlModel\BrawlModel.cpp">
+      <Filter>Source\BrawlModel</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\BrawlModel\BrawlModel.h">
+      <Filter>Source\BrawlModel</Filter>
+    </ClInclude>
+    <Filter Include="Source\BrawlModel\Private">
+      <UniqueIdentifier>{98015A73-406F-3235-87BC-8C29F25DA74A}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\BrawlModel\Private\MyOnlineSession.cpp">
+      <Filter>Source\BrawlModel\Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\BrawlModel\Private\MyOnlineSession.h">
+      <Filter>Source\BrawlModel\Private</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

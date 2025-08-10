@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "BrawlModel",
+			"Path": "..\\Source\\BrawlModel.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "BrawlModelEditor",
+			"Path": "..\\Source\\BrawlModelEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

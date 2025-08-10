@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\demo\\BrawlModel\\BrawlModel\\Source\\BrawlModel\\BrawlModel.Build.cs",
+		"D:\\demo\\BrawlModel\\BrawlModel\\Source\\BrawlModel.Target.cs",
+		"D:\\demo\\BrawlModel\\BrawlModel\\Source\\BrawlModelEditor.Target.cs"
+	],
+	"EngineVersion": "5.3.2"
+}
