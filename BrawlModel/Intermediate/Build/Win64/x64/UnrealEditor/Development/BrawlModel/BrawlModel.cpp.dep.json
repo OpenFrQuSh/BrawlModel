@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\demo\\brawlmodel\\brawlmodel\\source\\brawlmodel\\brawlmodel.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\demo\\brawlmodel\\brawlmodel\\intermediate\\build\\win64\\x64\\brawlmodeleditor\\development\\engine\\sharedpch.engine.cpp20.inclorderunreal5_0.h.pch",
+        "Includes": [
+            "d:\\demo\\brawlmodel\\brawlmodel\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\brawlmodel\\definitions.brawlmodel.h",
+            "d:\\demo\\brawlmodel\\brawlmodel\\source\\brawlmodel\\brawlmodel.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
