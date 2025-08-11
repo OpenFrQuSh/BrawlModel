@@ -1,0 +1,42 @@
+[
+	{
+		"file": "D:\\Epic\\Project\\BrawlModel\\BrawlModel\\Source\\BrawlModel\\BrawlModel.Build.cs",
+		"arguments": [
+			"D:\\VisualStudio\\vsIDE\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Epic\\Project\\BrawlModel\\BrawlModel\\.vscode\\compileCommands_Default\\BrawlModel.1.rsp"
+		],
+		"directory": "D:\\Epic\\UE5\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Epic\\Project\\BrawlModel\\BrawlModel\\Source\\BrawlModel\\BrawlModel.cpp",
+		"arguments": [
+			"D:\\VisualStudio\\vsIDE\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Epic\\Project\\BrawlModel\\BrawlModel\\.vscode\\compileCommands_Default\\BrawlModel.1.rsp"
+		],
+		"directory": "D:\\Epic\\UE5\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Epic\\Project\\BrawlModel\\BrawlModel\\Source\\BrawlModel\\BrawlModel.h",
+		"arguments": [
+			"D:\\VisualStudio\\vsIDE\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Epic\\Project\\BrawlModel\\BrawlModel\\.vscode\\compileCommands_Default\\BrawlModel.1.rsp"
+		],
+		"directory": "D:\\Epic\\UE5\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Epic\\Project\\BrawlModel\\BrawlModel\\Source\\BrawlModel\\Private\\MyOnlineSession.cpp",
+		"arguments": [
+			"D:\\VisualStudio\\vsIDE\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Epic\\Project\\BrawlModel\\BrawlModel\\.vscode\\compileCommands_Default\\BrawlModel.1.rsp"
+		],
+		"directory": "D:\\Epic\\UE5\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Epic\\Project\\BrawlModel\\BrawlModel\\Source\\BrawlModel\\Private\\MyOnlineSession.h",
+		"arguments": [
+			"D:\\VisualStudio\\vsIDE\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Epic\\Project\\BrawlModel\\BrawlModel\\.vscode\\compileCommands_Default\\BrawlModel.1.rsp"
+		],
+		"directory": "D:\\Epic\\UE5\\UE_5.3\\Engine\\Source"
+	}
+]

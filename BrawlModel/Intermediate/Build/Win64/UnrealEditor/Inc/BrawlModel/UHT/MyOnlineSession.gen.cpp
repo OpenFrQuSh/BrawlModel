@@ -78,15 +78,15 @@ void EmptyLinkFunctionForGeneratedCodeMyOnlineSession() {}
 	UMyOnlineSession::UMyOnlineSession(const FObjectInitializer& ObjectInitializer) : Super(ObjectInitializer) {}
 	DEFINE_VTABLE_PTR_HELPER_CTOR(UMyOnlineSession);
 	UMyOnlineSession::~UMyOnlineSession() {}
-	struct Z_CompiledInDeferFile_FID_BrawlModel_Source_BrawlModel_Private_MyOnlineSession_h_Statics
+	struct Z_CompiledInDeferFile_FID_Project_BrawlModel_BrawlModel_Source_BrawlModel_Private_MyOnlineSession_h_Statics
 	{
 		static const FClassRegisterCompiledInInfo ClassInfo[];
 	};
-	const FClassRegisterCompiledInInfo Z_CompiledInDeferFile_FID_BrawlModel_Source_BrawlModel_Private_MyOnlineSession_h_Statics::ClassInfo[] = {
+	const FClassRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Project_BrawlModel_BrawlModel_Source_BrawlModel_Private_MyOnlineSession_h_Statics::ClassInfo[] = {
 		{ Z_Construct_UClass_UMyOnlineSession, UMyOnlineSession::StaticClass, TEXT("UMyOnlineSession"), &Z_Registration_Info_UClass_UMyOnlineSession, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(UMyOnlineSession), 575073538U) },
 	};
-	static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_BrawlModel_Source_BrawlModel_Private_MyOnlineSession_h_51752556(TEXT("/Script/BrawlModel"),
-		Z_CompiledInDeferFile_FID_BrawlModel_Source_BrawlModel_Private_MyOnlineSession_h_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_BrawlModel_Source_BrawlModel_Private_MyOnlineSession_h_Statics::ClassInfo),
+	static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Project_BrawlModel_BrawlModel_Source_BrawlModel_Private_MyOnlineSession_h_51752556(TEXT("/Script/BrawlModel"),
+		Z_CompiledInDeferFile_FID_Project_BrawlModel_BrawlModel_Source_BrawlModel_Private_MyOnlineSession_h_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_Project_BrawlModel_BrawlModel_Source_BrawlModel_Private_MyOnlineSession_h_Statics::ClassInfo),
 		nullptr, 0,
 		nullptr, 0);
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

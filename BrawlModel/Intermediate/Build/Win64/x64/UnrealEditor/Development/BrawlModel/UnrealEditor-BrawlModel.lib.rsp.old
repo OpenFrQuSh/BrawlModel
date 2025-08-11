@@ -1,0 +1,15 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-BrawlModel.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\demo\BrawlModel\BrawlModel\Intermediate\Build\Win64\x64\BrawlModelEditor\Development\Engine\SharedPCH.Engine.Cpp20.InclOrderUnreal5_0.h.obj"
+"D:\demo\BrawlModel\BrawlModel\Intermediate\Build\Win64\x64\UnrealEditor\Development\BrawlModel\BrawlModel.init.gen.cpp.obj"
+"D:\demo\BrawlModel\BrawlModel\Intermediate\Build\Win64\x64\UnrealEditor\Development\BrawlModel\MyOnlineSession.gen.cpp.obj"
+"D:\demo\BrawlModel\BrawlModel\Intermediate\Build\Win64\x64\UnrealEditor\Development\BrawlModel\BrawlModel.cpp.obj"
+"D:\demo\BrawlModel\BrawlModel\Intermediate\Build\Win64\x64\UnrealEditor\Development\BrawlModel\MyOnlineSession.cpp.obj"
+"D:\demo\BrawlModel\BrawlModel\Intermediate\Build\Win64\x64\UnrealEditor\Development\BrawlModel\Default.rc2.res"
+/OUT:"D:\demo\BrawlModel\BrawlModel\Intermediate\Build\Win64\x64\UnrealEditor\Development\BrawlModel\UnrealEditor-BrawlModel.lib"

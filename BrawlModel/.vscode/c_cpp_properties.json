@@ -1,0 +1,21 @@
+{
+    "configurations": [
+        {
+            "name": "BrawlModelEditor Editor Win64 Development (BrawlModel)",
+            "compilerPath": "D:\\VisualStudio\\vsIDE\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+            "cStandard": "c17",
+            "cppStandard": "c++20",
+            "intelliSenseMode": "msvc-x64",
+            "compileCommands": "D:\\Epic\\Project\\BrawlModel\\BrawlModel\\.vscode\\compileCommands_BrawlModel.json"
+        },
+        {
+            "name": "Win32",
+            "compilerPath": "D:\\VisualStudio\\vsIDE\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+            "cStandard": "c17",
+            "cppStandard": "c++20",
+            "intelliSenseMode": "msvc-x64",
+            "compileCommands": "D:\\Epic\\Project\\BrawlModel\\BrawlModel\\.vscode\\compileCommands_Default.json"
+        }
+    ],
+    "version": 4
+}

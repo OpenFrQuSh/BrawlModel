@@ -17,7 +17,7 @@ void EmptyLinkFunctionForGeneratedCodeBrawlModel_init() {}
 				nullptr,
 				0,
 				PKG_CompiledIn | 0x00000000,
-				0xC16F2872,
+				0xCB47CDE0,
 				0x2D9DCE0B,
 				METADATA_PARAMS(0, nullptr)
 			};
@@ -25,5 +25,5 @@ void EmptyLinkFunctionForGeneratedCodeBrawlModel_init() {}
 		}
 		return Z_Registration_Info_UPackage__Script_BrawlModel.OuterSingleton;
 	}
-	static FRegisterCompiledInInfo Z_CompiledInDeferPackage_UPackage__Script_BrawlModel(Z_Construct_UPackage__Script_BrawlModel, TEXT("/Script/BrawlModel"), Z_Registration_Info_UPackage__Script_BrawlModel, CONSTRUCT_RELOAD_VERSION_INFO(FPackageReloadVersionInfo, 0xC16F2872, 0x2D9DCE0B));
+	static FRegisterCompiledInInfo Z_CompiledInDeferPackage_UPackage__Script_BrawlModel(Z_Construct_UPackage__Script_BrawlModel, TEXT("/Script/BrawlModel"), Z_Registration_Info_UPackage__Script_BrawlModel, CONSTRUCT_RELOAD_VERSION_INFO(FPackageReloadVersionInfo, 0xCB47CDE0, 0x2D9DCE0B));
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
