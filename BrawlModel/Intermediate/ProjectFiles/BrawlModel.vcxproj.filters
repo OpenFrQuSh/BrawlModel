@@ -11,7 +11,10 @@
     <None Include="..\..\Source\BrawlModelEditor.Target.cs">
       <Filter>Source</Filter>
     </None>
+    <None Include="..\..\.ignore" />
     <None Include="..\..\.vsconfig" />
+    <None Include="..\..\BrawlModel.code-workspace" />
+    <None Include="..\..\BrawlModel.sln.DotSettings.user" />
     <Filter Include="Config">
       <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
     </Filter>
@@ -42,11 +45,26 @@
     <Filter Include="Source\BrawlModel\Private">
       <UniqueIdentifier>{98015A73-406F-3235-87BC-8C29F25DA74A}</UniqueIdentifier>
     </Filter>
-    <ClCompile Include="..\..\Source\BrawlModel\Private\MyOnlineSession.cpp">
-      <Filter>Source\BrawlModel\Private</Filter>
+    <Filter Include="Source\BrawlModel\Private\OnlineSubsystem">
+      <UniqueIdentifier>{2EB5CD21-C8C1-3D55-B81B-9924ADECB63F}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\BrawlModel\Private\OnlineSubsystem\GameSessionSubsystem.cpp">
+      <Filter>Source\BrawlModel\Private\OnlineSubsystem</Filter>
     </ClCompile>
-    <ClInclude Include="..\..\Source\BrawlModel\Private\MyOnlineSession.h">
-      <Filter>Source\BrawlModel\Private</Filter>
+    <ClInclude Include="..\..\Source\BrawlModel\Private\OnlineSubsystem\GameSessionSubsystem.h">
+      <Filter>Source\BrawlModel\Private\OnlineSubsystem</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\BrawlModel\Private\OnlineSubsystem\OnlineSessionStruct.cpp">
+      <Filter>Source\BrawlModel\Private\OnlineSubsystem</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\BrawlModel\Private\OnlineSubsystem\OnlineSessionStruct.h">
+      <Filter>Source\BrawlModel\Private\OnlineSubsystem</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\BrawlModel\Private\OnlineSubsystem\OnlineSessionUENUM.cpp">
+      <Filter>Source\BrawlModel\Private\OnlineSubsystem</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\BrawlModel\Private\OnlineSubsystem\OnlineSessionUENUM.h">
+      <Filter>Source\BrawlModel\Private\OnlineSubsystem</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>

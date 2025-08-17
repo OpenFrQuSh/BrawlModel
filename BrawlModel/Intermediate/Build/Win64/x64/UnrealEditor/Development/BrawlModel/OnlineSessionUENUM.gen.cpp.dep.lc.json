@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\demo\\openfrqush\\brawlmodel\\intermediate\\build\\win64\\unrealeditor\\inc\\brawlmodel\\uht\\onlinesessionuenum.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\demo\\openfrqush\\brawlmodel\\intermediate\\build\\win64\\x64\\brawlmodeleditor\\development\\unrealed\\sharedpch.unrealed.cpp20.inclorderunreal5_0.h.pch",
+        "Includes": [
+            "d:\\demo\\openfrqush\\brawlmodel\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\brawlmodel\\definitions.brawlmodel.h",
+            "d:\\demo\\openfrqush\\brawlmodel\\source\\brawlmodel\\private\\onlinesubsystem\\onlinesessionuenum.h",
+            "d:\\demo\\openfrqush\\brawlmodel\\intermediate\\build\\win64\\unrealeditor\\inc\\brawlmodel\\uht\\onlinesessionuenum.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

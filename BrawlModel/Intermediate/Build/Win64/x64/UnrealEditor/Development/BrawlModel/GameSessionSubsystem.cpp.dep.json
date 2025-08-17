@@ -1,0 +1,33 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\demo\\openfrqush\\brawlmodel\\source\\brawlmodel\\private\\onlinesubsystem\\gamesessionsubsystem.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\demo\\openfrqush\\brawlmodel\\intermediate\\build\\win64\\x64\\brawlmodeleditor\\development\\unrealed\\sharedpch.unrealed.cpp20.inclorderunreal5_0.h.pch",
+        "Includes": [
+            "d:\\demo\\openfrqush\\brawlmodel\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\brawlmodel\\definitions.brawlmodel.h",
+            "d:\\demo\\openfrqush\\brawlmodel\\source\\brawlmodel\\private\\onlinesubsystem\\gamesessionsubsystem.h",
+            "d:\\demo\\openfrqush\\brawlmodel\\source\\brawlmodel\\private\\onlinesubsystem\\onlinesessionstruct.h",
+            "f:\\unreal\\unrealengine\\ue_5.3\\ue_5.3\\engine\\plugins\\online\\onlinesubsystem\\source\\public\\onlinesessionsettings.h",
+            "f:\\unreal\\unrealengine\\ue_5.3\\ue_5.3\\engine\\plugins\\online\\onlinesubsystem\\source\\public\\onlinekeyvaluepair.h",
+            "f:\\unreal\\unrealengine\\ue_5.3\\ue_5.3\\engine\\plugins\\online\\onlinesubsystem\\source\\public\\onlinesubsystempackage.h",
+            "f:\\unreal\\unrealengine\\ue_5.3\\ue_5.3\\engine\\plugins\\online\\onlinesubsystem\\source\\public\\onlinesubsystem.h",
+            "f:\\unreal\\unrealengine\\ue_5.3\\ue_5.3\\engine\\plugins\\online\\onlinesubsystem\\source\\public\\onlinesubsystemmodule.h",
+            "f:\\unreal\\unrealengine\\ue_5.3\\ue_5.3\\engine\\plugins\\online\\onlinesubsystem\\source\\public\\onlinesubsystemtypes.h",
+            "f:\\unreal\\unrealengine\\ue_5.3\\ue_5.3\\engine\\plugins\\online\\onlinesubsystem\\source\\public\\onlinesubsystemnames.h",
+            "f:\\unreal\\unrealengine\\ue_5.3\\ue_5.3\\engine\\plugins\\online\\onlinebase\\source\\public\\online\\onlinebase.h",
+            "f:\\unreal\\unrealengine\\ue_5.3\\ue_5.3\\engine\\plugins\\online\\onlinesubsystem\\source\\public\\onlinesubsystempackage.h",
+            "f:\\unreal\\unrealengine\\ue_5.3\\ue_5.3\\engine\\plugins\\online\\onlinesubsystem\\source\\public\\onlinedelegatemacros.h",
+            "f:\\unreal\\unrealengine\\ue_5.3\\ue_5.3\\engine\\plugins\\online\\onlinebase\\source\\public\\online\\onlinesessionnames.h",
+            "f:\\unreal\\unrealengine\\ue_5.3\\ue_5.3\\engine\\plugins\\online\\onlinesubsystem\\source\\public\\onlinesubsystempackage.h",
+            "d:\\demo\\openfrqush\\brawlmodel\\intermediate\\build\\win64\\unrealeditor\\inc\\brawlmodel\\uht\\onlinesessionstruct.generated.h",
+            "d:\\demo\\openfrqush\\brawlmodel\\source\\brawlmodel\\private\\onlinesubsystem\\onlinesessionuenum.h",
+            "d:\\demo\\openfrqush\\brawlmodel\\intermediate\\build\\win64\\unrealeditor\\inc\\brawlmodel\\uht\\onlinesessionuenum.generated.h",
+            "f:\\unreal\\unrealengine\\ue_5.3\\ue_5.3\\engine\\plugins\\online\\onlinesubsystem\\source\\public\\interfaces\\onlinesessioninterface.h",
+            "f:\\unreal\\unrealengine\\ue_5.3\\ue_5.3\\engine\\plugins\\online\\onlinesubsystem\\source\\public\\interfaces\\onlinesessiondelegates.h",
+            "d:\\demo\\openfrqush\\brawlmodel\\intermediate\\build\\win64\\unrealeditor\\inc\\brawlmodel\\uht\\gamesessionsubsystem.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
