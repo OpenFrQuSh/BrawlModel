@@ -199,10 +199,27 @@ void UGameSessionSubsystem::OnJoinSessionCompleteHandler(FName SessionName, EOnJ
         SessionInterface->ClearOnJoinSessionCompleteDelegate_Handle(OnJoinSessionCompleteDelegate);
 
     EBlueprint_JoinSessionResult BPResult = EBlueprint_JoinSessionResult::UnknownError;
+    FString YesRoomIP;
     switch (Result)
     {
     case EOnJoinSessionCompleteResult::Success:
-        BPResult = EBlueprint_JoinSessionResult::Success; break;
+        BPResult = EBlueprint_JoinSessionResult::Success; 
+        
+        if (SessionInterface->GetResolvedConnectString(SessionName, YesRoomIP))
+        {
+            UWorld* World = GetWorld();
+            if (World)
+            {
+                APlayerController* PC = World->GetFirstPlayerController();
+                if (PC)
+                {
+                    // 客户端跳转到房间
+                    PC->ClientTravel(YesRoomIP, ETravelType::TRAVEL_Absolute);
+                }
+            }
+        }
+        
+        break;
     case EOnJoinSessionCompleteResult::SessionIsFull:
         BPResult = EBlueprint_JoinSessionResult::SessionIsFull; break;
     case EOnJoinSessionCompleteResult::SessionDoesNotExist:
