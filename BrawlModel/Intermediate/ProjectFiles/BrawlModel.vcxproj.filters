@@ -12,13 +12,15 @@
       <Filter>Source</Filter>
     </None>
     <None Include="..\..\.ignore" />
-    <None Include="..\..\.vsconfig" />
     <None Include="..\..\BrawlModel.code-workspace" />
     <None Include="..\..\BrawlModel.sln.DotSettings.user" />
     <Filter Include="Config">
       <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
       <Filter>Config</Filter>
     </None>
     <None Include="..\..\Config\DefaultEngine.ini">
